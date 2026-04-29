@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+
+:root {
+  --primary-hue: 200;
+  --primary-saturation: 98%;
+
+  /* Light theme */
+  --color-primary: hsl(var(--primary-hue) var(--primary-saturation) 48%);
+  --color-primary-light: hsl(var(--primary-hue) var(--primary-saturation) 85%);
+  --color-primary-dark: hsl(var(--primary-hue) var(--primary-saturation) 25%);
+
+  --color-background: hsl(0 0% 100%);
+  --color-foreground: hsl(240 10% 3.9%);
+  --color-muted: hsl(240 4.8% 95.9%);
+  --color-border: hsl(240 5.9% 90%);
+
+  /* Shadows */
+  --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+  --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+  --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1),
+    0 4px 6px -4px rgb(0 0 0 / 0.1);
+
+  /* Radius */
+  --radius: 0.5rem;
+
+  /* Animation */
+  --transition-fast: 150ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-default: 200ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-slow: 300ms cubic-bezier(0.4, 0, 0.2, 1);
+
+  /* Spacing - main layout header: compact below lg (logo + hamburger), full nav at lg+ */
+  --header-height: 65px;
+  --content-padding: 2rem;
+}
