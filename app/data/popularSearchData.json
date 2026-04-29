@@ -1,0 +1,346 @@
+{
+  "tabs": [
+    "Popular Cities",
+    "United States",
+    "United Kingdom",
+    "Australia",
+    "Canada",
+    "New Zealand",
+    "Japan",
+    "Singapore",
+    "Ireland",
+    "France",
+    "Germany",
+    "Spain",
+    "Korea",
+    "Hong Kong (China)",
+    "Malaysia"
+  ],
+  "tabFlags": {
+    "Popular Cities": null,
+    "United States": "us",
+    "United Kingdom": "gb",
+    "Australia": "au",
+    "Canada": "ca",
+    "New Zealand": "nz",
+    "Japan": "jp",
+    "Singapore": "sg",
+    "Ireland": "ie",
+    "France": "fr",
+    "Germany": "de",
+    "Spain": "es",
+    "Korea": "kr",
+    "Hong Kong (China)": "hk",
+    "Malaysia": "my"
+  },
+  "data": {
+    "Popular Cities": {
+      "City": [
+        { "label": "London", "slug": "uk/london" },
+        { "label": "Sydney", "slug": "au/sydney" },
+        { "label": "Melbourne", "slug": "au/melbourne" },
+        { "label": "Hong Kong (China)", "slug": "hk/hong-kong" },
+        { "label": "Singapore", "slug": "sg/singapore" },
+        { "label": "New York", "slug": "us/new-york" },
+        { "label": "Manchester", "slug": "uk/manchester" },
+        { "label": "Tokyo", "slug": "jp/tokyo" },
+        { "label": "Leeds", "slug": "uk/leeds" },
+        { "label": "Glasgow", "slug": "uk/glasgow" },
+        { "label": "Birmingham", "slug": "uk/birmingham" },
+        { "label": "Boston", "slug": "us/boston" },
+        { "label": "Brisbane", "slug": "au/brisbane" },
+        { "label": "Edinburgh", "slug": "uk/edinburgh" }
+      ],
+      "School": [
+        { "label": "University Of Liverpool", "slug": "uk/liverpool/university-of-liverpool" },
+        { "label": "The University Of Sydney", "slug": "au/sydney/the-university-of-sydney" },
+        { "label": "University Of Manchester", "slug": "uk/manchester/university-of-manchester" },
+        { "label": "The University Of Melbourne", "slug": "au/melbourne/the-university-of-melbourne" },
+        { "label": "The University Of New South Wales", "slug": "au/sydney/university-of-new-south-wales" },
+        { "label": "King's College London Strand Campus", "slug": "uk/london/kings-college-london-kcl" },
+        { "label": "University Of Glasgow", "slug": "uk/glasgow/university-of-glasgow" },
+        { "label": "RMIT University Melbourne City Campus", "slug": "au/melbourne/rmit-university" },
+        { "label": "University Of Birmingham", "slug": "uk/birmingham/university-of-birmingham" },
+        { "label": "The University Of Sheffield", "slug": "uk/sheffield/university-of-sheffield" },
+        { "label": "The University Of Queensland-St Lucia Campus", "slug": "au/brisbane/the-university-of-queensland" },
+        { "label": "University Of Technology Sydney", "slug": "au/sydney/university-of-technology-sydney" },
+        { "label": "University Of Leeds", "slug": "uk/leeds/university-of-leeds" },
+        { "label": "UCL University College London", "slug": "uk/london/university-college-london" },
+        { "label": "Monash University Caulfield Campus", "slug": "au/melbourne/monash-university" }
+      ]
+    },
+    "United States": {
+      "City": [
+        { "label": "New York", "slug": "us/new-york" },
+        { "label": "Boston", "slug": "us/boston" },
+        { "label": "Los Angeles", "slug": "us/los-angeles" },
+        { "label": "Chicago", "slug": "us/chicago" },
+        { "label": "Philadelphia", "slug": "us/philadelphia" },
+        { "label": "Washington D.C.", "slug": "us/washington-dc" },
+        { "label": "Berkeley", "slug": "us/berkeley" },
+        { "label": "Davis", "slug": "us/davis" },
+        { "label": "San Francisco", "slug": "us/san-francisco" },
+        { "label": "Syracuse", "slug": "us/syracuse" },
+        { "label": "Champaign", "slug": "us/champaign" }
+      ],
+      "School": [
+        { "label": "New York University", "slug": "us/new-york/new-york-university" },
+        { "label": "Columbia University In The City Of New York", "slug": "us/new-york/columbia-university" },
+        { "label": "Boston University (Central)", "slug": "us/boston/boston-university" },
+        { "label": "Northeastern University (Boston)", "slug": "us/boston/northeastern-university" },
+        { "label": "University Of Southern California", "slug": "us/los-angeles/university-of-southern-california" },
+        { "label": "University Of Illinois Urbana-Champaign", "slug": "us/champaign/university-of-illinois" },
+        { "label": "University Of California Davis", "slug": "us/davis/university-of-california-davis" },
+        { "label": "Syracuse University", "slug": "us/syracuse/syracuse-university" }
+      ]
+    },
+    "United Kingdom": {
+      "City": [
+        { "label": "Liverpool", "slug": "uk/liverpool" },
+        { "label": "London", "slug": "uk/london" },
+        { "label": "Glasgow", "slug": "uk/glasgow" },
+        { "label": "Sheffield", "slug": "uk/sheffield" },
+        { "label": "Manchester", "slug": "uk/manchester" },
+        { "label": "Birmingham", "slug": "uk/birmingham" },
+        { "label": "Leeds", "slug": "uk/leeds" },
+        { "label": "Coventry", "slug": "uk/coventry" },
+        { "label": "Cardiff", "slug": "uk/cardiff" }
+      ],
+      "School": [
+        { "label": "University Of Liverpool", "slug": "uk/liverpool/university-of-liverpool" },
+        { "label": "UCL University College London", "slug": "uk/london/university-college-london" },
+        { "label": "King's College London Strand Campus", "slug": "uk/london/kings-college-london-kcl" },
+        { "label": "University Of Glasgow", "slug": "uk/glasgow/university-of-glasgow" },
+        { "label": "University Of Manchester", "slug": "uk/manchester/university-of-manchester" },
+        { "label": "The University Of Sheffield", "slug": "uk/sheffield/university-of-sheffield" },
+        { "label": "University Of Liverpool London Campus", "slug": "uk/london/university-of-liverpool-london-campus" },
+        { "label": "University Of Nottingham", "slug": "uk/nottingham/university-of-nottingham" }
+      ]
+    },
+    "Australia": {
+      "City": [
+        { "label": "Sydney", "slug": "au/sydney" },
+        { "label": "Brisbane", "slug": "au/brisbane" },
+        { "label": "Melbourne", "slug": "au/melbourne" },
+        { "label": "Adelaide", "slug": "au/adelaide" },
+        { "label": "Canberra", "slug": "au/canberra" }
+      ],
+      "School": [
+        { "label": "The University Of Sydney", "slug": "au/sydney/the-university-of-sydney" },
+        { "label": "The University Of Melbourne", "slug": "au/melbourne/the-university-of-melbourne" },
+        { "label": "Monash University Caulfield Campus", "slug": "au/melbourne/monash-university" },
+        { "label": "Monash University Clayton Campus", "slug": "au/melbourne/monash-university-clayton" },
+        { "label": "Monash College", "slug": "au/melbourne/monash-college" },
+        { "label": "The University Of Queensland-St Lucia Campus", "slug": "au/brisbane/the-university-of-queensland" },
+        { "label": "The University Of Adelaide", "slug": "au/adelaide/the-university-of-adelaide" }
+      ]
+    },
+    "Canada": {
+      "City": [
+        { "label": "Toronto", "slug": "ca/toronto" },
+        { "label": "Vancouver", "slug": "ca/vancouver" },
+        { "label": "Ottawa", "slug": "ca/ottawa" },
+        { "label": "Hamilton", "slug": "ca/hamilton" },
+        { "label": "Montreal", "slug": "ca/montreal" },
+        { "label": "London", "slug": "ca/london" },
+        { "label": "Edmonton", "slug": "ca/edmonton" },
+        { "label": "Halifax", "slug": "ca/halifax" },
+        { "label": "Kingston", "slug": "ca/kingston" },
+        { "label": "Waterloo", "slug": "ca/waterloo" }
+      ],
+      "School": [
+        { "label": "University Of British Columbia", "slug": "ca/vancouver/university-of-british-columbia" },
+        { "label": "Mcmaster University", "slug": "ca/hamilton/mcmaster-university" },
+        { "label": "Mcgill University", "slug": "ca/montreal/mcgill-university" },
+        { "label": "Simon Fraser University", "slug": "ca/vancouver/simon-fraser-university" },
+        { "label": "Queen's University", "slug": "ca/kingston/queens-university" },
+        { "label": "University Of Ottawa", "slug": "ca/ottawa/university-of-ottawa" },
+        { "label": "Carleton University", "slug": "ca/ottawa/carleton-university" },
+        { "label": "University Of Waterloo", "slug": "ca/waterloo/university-of-waterloo" },
+        { "label": "University Of Alberta", "slug": "ca/edmonton/university-of-alberta" },
+        { "label": "University Of Western Ontario", "slug": "ca/london/university-of-western-ontario" },
+        { "label": "Dalhousie University", "slug": "ca/halifax/dalhousie-university" },
+        { "label": "Ryerson University", "slug": "ca/toronto/ryerson-university" }
+      ]
+    },
+    "New Zealand": {
+      "City": [
+        { "label": "Auckland", "slug": "nz/auckland" },
+        { "label": "Wellington", "slug": "nz/wellington" },
+        { "label": "Christchurch City", "slug": "nz/christchurch" },
+        { "label": "Hamilton", "slug": "nz/hamilton" }
+      ],
+      "School": [
+        { "label": "University Of Auckland", "slug": "nz/auckland/university-of-auckland" },
+        { "label": "Victoria University Of Wellington", "slug": "nz/wellington/victoria-university-of-wellington" },
+        { "label": "University Of Canterbury", "slug": "nz/christchurch/university-of-canterbury" }
+      ]
+    },
+    "Japan": {
+      "City": [
+        { "label": "Tokyo", "slug": "jp/tokyo" },
+        { "label": "Kobe", "slug": "jp/kobe" },
+        { "label": "Osaka", "slug": "jp/osaka" },
+        { "label": "Nagoya", "slug": "jp/nagoya" },
+        { "label": "Kyoto", "slug": "jp/kyoto" },
+        { "label": "Sapporo", "slug": "jp/sapporo" },
+        { "label": "Hiroshima", "slug": "jp/hiroshima" },
+        { "label": "Fukuoka", "slug": "jp/fukuoka" },
+        { "label": "Sendai", "slug": "jp/sendai" },
+        { "label": "Tsukuba", "slug": "jp/tsukuba" }
+      ],
+      "School": [
+        { "label": "Nihon University", "slug": "jp/tokyo/nihon-university" },
+        { "label": "Tokyo University Of The Arts", "slug": "jp/tokyo/tokyo-university-of-the-arts" }
+      ]
+    },
+    "Singapore": {
+      "City": [
+        { "label": "Singapore", "slug": "sg/singapore" }
+      ],
+      "School": [
+        { "label": "Nanyang Technological University", "slug": "sg/singapore/nanyang-technological-university" },
+        { "label": "James Cook University, Singapore", "slug": "sg/singapore/james-cook-university-singapore" },
+        { "label": "Dimensions Kovan Campus", "slug": "sg/singapore/dimensions-kovan-campus" },
+        { "label": "University Of Chichester Singapore Campus", "slug": "sg/singapore/university-of-chichester-singapore-campus" },
+        { "label": "Singapore Institute Of Management", "slug": "sg/singapore/singapore-institute-of-management" }
+      ]
+    },
+    "Ireland": {
+      "City": [
+        { "label": "Dublin", "slug": "ie/dublin" }
+      ],
+      "School": [
+        { "label": "Trinity College Dublin", "slug": "ie/dublin/trinity-college-dublin" },
+        { "label": "Dublin Institute Of Technology", "slug": "ie/dublin/dublin-institute-of-technology" },
+        { "label": "Dublin City University", "slug": "ie/dublin/dublin-city-university" }
+      ]
+    },
+    "France": {
+      "City": [
+        { "label": "Paris", "slug": "fr/paris" },
+        { "label": "Lyon", "slug": "fr/lyon" },
+        { "label": "Strasbourg", "slug": "fr/strasbourg" },
+        { "label": "Nantes", "slug": "fr/nantes" },
+        { "label": "Lille", "slug": "fr/lille" },
+        { "label": "Toulouse", "slug": "fr/toulouse" },
+        { "label": "Bordeaux", "slug": "fr/bordeaux" },
+        { "label": "Montpellier", "slug": "fr/montpellier" },
+        { "label": "Grenoble", "slug": "fr/grenoble" },
+        { "label": "Rennes", "slug": "fr/rennes" },
+        { "label": "Rouen", "slug": "fr/rouen" }
+      ],
+      "School": [
+        { "label": "UNIVERSITE LUMIERE LYON II", "slug": "fr/lyon/universite-lumiere-lyon-ii" },
+        { "label": "SKEMA Business School Lille", "slug": "fr/lille/skema-business-school" },
+        { "label": "Toulouse Business School", "slug": "fr/toulouse/toulouse-business-school" },
+        { "label": "Université Paul-Valéry Montpellier III", "slug": "fr/montpellier/universite-paul-valery-montpellier-iii" },
+        { "label": "Emlyon Business School Paris", "slug": "fr/paris/emlyon-business-school" },
+        { "label": "KEDGE Business School - Bordeaux", "slug": "fr/bordeaux/kedge-business-school" },
+        { "label": "ESCP Europe Paris", "slug": "fr/paris/escp-europe" },
+        { "label": "University Of Strasbourg", "slug": "fr/strasbourg/university-of-strasbourg" },
+        { "label": "Université Paris-Sorbonne", "slug": "fr/paris/universite-paris-sorbonne" },
+        { "label": "ESC RENNES", "slug": "fr/rennes/esc-rennes" },
+        { "label": "NEOMA Business School", "slug": "fr/rouen/neoma-business-school" }
+      ]
+    },
+    "Germany": {
+      "City": [
+        { "label": "Berlin", "slug": "de/berlin" },
+        { "label": "Hamburg", "slug": "de/hamburg" },
+        { "label": "Munich", "slug": "de/munich" },
+        { "label": "Leipzig", "slug": "de/leipzig" },
+        { "label": "Frankfurt Am Main", "slug": "de/frankfurt" },
+        { "label": "Duisburg", "slug": "de/duisburg" },
+        { "label": "Dresden", "slug": "de/dresden" },
+        { "label": "Darmstadt", "slug": "de/darmstadt" },
+        { "label": "Heidelberg", "slug": "de/heidelberg" }
+      ],
+      "School": [
+        { "label": "Humboldt-Universität Zu Berlin", "slug": "de/berlin/humboldt-universitat-zu-berlin" },
+        { "label": "Technische Universität München", "slug": "de/munich/technische-universitat-munchen" },
+        { "label": "Ludwig-Maximilians-Universität München", "slug": "de/munich/ludwig-maximilians-universitat-munchen" },
+        { "label": "Goethe University Frankfurt", "slug": "de/frankfurt/goethe-university-frankfurt" },
+        { "label": "Technische Universität Berlin", "slug": "de/berlin/technische-universitat-berlin" },
+        { "label": "Technische Universität Dresden", "slug": "de/dresden/technische-universitat-dresden" },
+        { "label": "Universität Hamburg", "slug": "de/hamburg/universitat-hamburg" }
+      ]
+    },
+    "Spain": {
+      "City": [
+        { "label": "Madrid", "slug": "es/madrid" },
+        { "label": "Barcelona", "slug": "es/barcelona" },
+        { "label": "Valencia", "slug": "es/valencia" },
+        { "label": "Salamanca", "slug": "es/salamanca" },
+        { "label": "Alcala", "slug": "es/alcala" }
+      ],
+      "School": [
+        { "label": "University Of Southern California (Health Sciences Campus)", "slug": "us/los-angeles/university-of-southern-california" },
+        { "label": "Universidad Complutense De Madrid", "slug": "es/madrid/universidad-complutense-de-madrid" }
+      ]
+    },
+    "Korea": {
+      "City": [
+        { "label": "Seoul", "slug": "kr/seoul" }
+      ],
+      "School": [
+        { "label": "Soongsil University", "slug": "kr/seoul/soongsil-university" },
+        { "label": "Seoul National University", "slug": "kr/seoul/seoul-national-university" },
+        { "label": "Chung-Ang University", "slug": "kr/seoul/chung-ang-university" },
+        { "label": "Korea University", "slug": "kr/seoul/korea-university" },
+        { "label": "Kyung Hee University", "slug": "kr/seoul/kyung-hee-university" },
+        { "label": "Hankuk University Of Foreign Studies", "slug": "kr/seoul/hankuk-university-of-foreign-studies" },
+        { "label": "The University Of Seoul", "slug": "kr/seoul/the-university-of-seoul" },
+        { "label": "Yonsei University", "slug": "kr/seoul/yonsei-university" },
+        { "label": "Sogang University", "slug": "kr/seoul/sogang-university" },
+        { "label": "Ewha Womans University", "slug": "kr/seoul/ewha-womans-university" },
+        { "label": "Sungkyunkwan University", "slug": "kr/seoul/sungkyunkwan-university" },
+        { "label": "Hanyang University", "slug": "kr/seoul/hanyang-university" },
+        { "label": "Dongguk University", "slug": "kr/seoul/dongguk-university" },
+        { "label": "Hongik University", "slug": "kr/seoul/hongik-university" },
+        { "label": "Sejong University", "slug": "kr/seoul/sejong-university" },
+        { "label": "Konkuk University", "slug": "kr/seoul/konkuk-university" }
+      ]
+    },
+    "Hong Kong (China)": {
+      "City": [
+        { "label": "Hong Kong (China)", "slug": "hk/hong-kong" }
+      ],
+      "School": [
+        { "label": "The University Of Hong Kong", "slug": "hk/hong-kong/the-university-of-hong-kong" },
+        { "label": "McGill University Macdonald Campus", "slug": "ca/montreal/mcgill-university" },
+        { "label": "Hong Kong Baptist University", "slug": "hk/hong-kong/hong-kong-baptist-university" },
+        { "label": "The Hong Kong Polytechnic University", "slug": "hk/hong-kong/the-hong-kong-polytechnic-university" },
+        { "label": "City University Of Hong Kong", "slug": "hk/hong-kong/city-university-of-hong-kong" },
+        { "label": "Hong Kong University Of Science And Technology", "slug": "hk/hong-kong/hong-kong-university-of-science-and-technology" },
+        { "label": "North Seattle College", "slug": "us/seattle/north-seattle-college" }
+      ]
+    },
+    "Malaysia": {
+      "City": [
+        { "label": "Kuala Lumpur", "slug": "my/kuala-lumpur" },
+        { "label": "Subang Jaya", "slug": "my/subang-jaya" },
+        { "label": "Petaling Jaya", "slug": "my/petaling-jaya" },
+        { "label": "Seri Kembangan", "slug": "my/seri-kembangan" },
+        { "label": "Nilai", "slug": "my/nilai" },
+        { "label": "Gelugor", "slug": "my/gelugor" },
+        { "label": "Johor Bahru", "slug": "my/johor-bahru" }
+      ],
+      "School": [
+        { "label": "Universiti Putra Malaysia", "slug": "my/kuala-lumpur/universiti-putra-malaysia" },
+        { "label": "Universiti Kebangsaan Malaysia Kampus Kuala Lumpur", "slug": "my/kuala-lumpur/universiti-kebangsaan-malaysia" },
+        { "label": "Universiti Teknologi Malaysia", "slug": "my/johor-bahru/universiti-teknologi-malaysia" },
+        { "label": "SEGI University", "slug": "my/kuala-lumpur/segi-university" },
+        { "label": "University Of Malaya", "slug": "my/kuala-lumpur/university-of-malaya" },
+        { "label": "Taylor's University", "slug": "my/subang-jaya/taylors-university" },
+        { "label": "Monash University Malaysia", "slug": "my/petaling-jaya/monash-university-malaysia" },
+        { "label": "Universiti Kebangsaan Malaysia", "slug": "my/kuala-lumpur/universiti-kebangsaan-malaysia" },
+        { "label": "University College Sedaya International", "slug": "my/kuala-lumpur/ucsi-university" },
+        { "label": "Sunway College", "slug": "my/petaling-jaya/sunway-college" },
+        { "label": "INTI International University Nilai", "slug": "my/nilai/inti-international-university" },
+        { "label": "Universiti Sains Malaysia", "slug": "my/gelugor/universiti-sains-malaysia" },
+        { "label": "Asia Pacific University", "slug": "my/kuala-lumpur/asia-pacific-university" }
+      ]
+    }
+  }
+}
