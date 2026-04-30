@@ -26,7 +26,7 @@ import Link from "next/link";
 
 export default function Main() {
   return (
-    <main className="bg-[#f8fafc] text-slate-900 font-sans selection:bg-[#161D83] selection:text-white pb-10 pt-20">
+    <main className="bg-[#f8fafc] max-w-screen mx-auto overflow-hidden text-slate-900 font-sans selection:bg-[#161D83] selection:text-white pb-10 pt-20">
 
       {/* HERO */}
       <section className="relative text-center py-10 md:py-24 px-4 max-w-7xl mx-auto">

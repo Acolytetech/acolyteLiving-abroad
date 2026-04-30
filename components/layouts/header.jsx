@@ -590,7 +590,7 @@ const HeaderHome = () => {
             </header>
 
             {showCTA && (
-                <div className="fixed bottom-5 right-5 z-40 md:hidden">
+                <div className=" hidden fixed bottom-5 right-5 z-40 md:hidden">
                     <button
                         type="button"
                         onClick={handleGetStartedClick}
