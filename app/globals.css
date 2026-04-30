@@ -32,4 +32,26 @@
   /* Spacing - main layout header: compact below lg (logo + hamburger), full nav at lg+ */
   --header-height: 65px;
   --content-padding: 2rem;
+  --font-sans: "Halvena", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+}
+
+@font-face {
+  font-family: "Halvena";
+  src: url("/fonts/Halvena/Halvena-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Halvena";
+  src: url("/fonts/Halvena/Halvena-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Then set as site font */
+
+html, body {
+  font-family: var(--font-sans);
 }

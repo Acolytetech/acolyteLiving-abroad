@@ -459,7 +459,8 @@ const HeaderHome = () => {
                                         <button
                                             type="button"
                                             onClick={toggleTheme}
-                                            className="flex h-9 w-9 items-center justify-center rounded-full text-slate-600 dark:text-white/80"
+                                            className="flex h-9 w-9 items-center justify-center rounded-full text-slate-600 dark:text-[#161D83] transition-colors hover:bg-black hover:text-slate-900 dark:hover:bg-black/10 dark:hover:text-[#161D83]"
+                                            title="Toggle Theme"
                                             aria-label="Toggle theme"
                                         >
                                             {isDark ? (
@@ -480,7 +481,7 @@ const HeaderHome = () => {
                                     <button
                                         type="button"
                                         onClick={() => setIsMenuOpen(!isMenuOpen)}
-                                        className="flex h-9 w-9 items-center justify-center rounded-full text-[#161D83] dark:text-white"
+                                        className="flex h-9 w-9 items-center justify-center rounded-full text-[#161D83] dark:text-[#161D83]"
                                         aria-label="Toggle menu"
                                     >
                                         {isMenuOpen ? (
@@ -571,7 +572,7 @@ const HeaderHome = () => {
                                                 active
                                                     ? isDark
                                                         ? "bg-white/15 font-bold text-white"
-                                                        : "bg-[#0B52BF]/10 font-bold text-[#0B52BF]"
+                                                        : "bg-[#0B52BF]/10 font-bold text-[#161D83]"
                                                     : isDark
                                                       ? "text-white hover:bg-white/10"
                                                       : "text-[#052659] hover:bg-black/5"
